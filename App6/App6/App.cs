@@ -21,6 +21,8 @@ namespace App6
                         new Label {
                             XAlign = TextAlignment.Center,
                             Text = "Welcome to Xamarin Forms!"
+
+                            ///asdfkjaksldjfkla sdlkfja skdjfkla jsdklf
                         }
                     }
                 }
